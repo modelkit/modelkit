@@ -1,0 +1,64 @@
+{
+    "Good": {
+        "note": "",
+        "subDefine": {
+            "id": {
+                "type": "int32",
+                "note": "id"
+            },
+            "intro": {
+                "type": "string",
+                "note": ""
+            },
+            "picture": {
+                "type": "Picture",
+                "note": ""
+            },
+            "title": {
+                "type": "string",
+                "note": "问题标题/标题字段"
+            }
+        },
+        "type": "dict"
+    },
+    "Picture": {
+        "note": "",
+        "subDefine": {
+            "height": {
+                "type": "int32",
+                "note": ""
+            },
+            "url": {
+                "type": "string",
+                "note": ""
+            },
+            "width": {
+                "type": "int32",
+                "note": ""
+            }
+        },
+        "type": "dict"
+    },
+    "good": {
+        "note": "",
+        "subDefine": {
+            "title": {
+                "note": "问题标题/标题字段",
+                "type": "string"
+            },
+            "picture": {
+                "note": "",
+                "type": "Picture"
+            },
+            "id": {
+                "note": "id",
+                "type": "int32"
+            },
+            "intro": {
+                "note": "",
+                "type": "string"
+            }
+        },
+        "type": "dict"
+    }
+}

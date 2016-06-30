@@ -1,0 +1,20 @@
+{
+    "description": "",
+    "url": "find/index",
+    "method": "GET",
+    "input": {
+        "sex": {
+            "type": "string",
+            "note": "啊哈哈"
+        }
+    },
+    "output": {
+        "list": {
+            "type": "list",
+            "note": "",
+            "subDefine": {
+                "type": "Good"
+            }
+        }
+    }
+}

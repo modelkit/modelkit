@@ -1,0 +1,26 @@
+[
+    {
+      "method" : "GET",
+      "parameters" : [
+  
+      ],
+      "url" : "https://raw.githubusercontent.com/modelkit/modelkit/master/api/home/index.json",
+      "name" : "homeIndex"
+    },
+    {
+      "method" : "GET",
+      "parameters" : [
+  
+      ],
+      "url" : "https://raw.githubusercontent.com/modelkit/modelkit/master/api/find/index.json",
+      "name" : "findIndex"
+    },
+    {
+      "method" : "GET",
+      "parameters" : [
+  
+      ],
+      "url" : "https://raw.githubusercontent.com/modelkit/modelkit/master/api/search/index.json",
+      "name" : "searchIndex"
+    }
+  ]

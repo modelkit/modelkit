@@ -1,0 +1,17 @@
+{
+    "description": "",
+    "url": "search/index",
+    "method": "GET",
+    "input": {
+
+    },
+    "output": {
+        "list": {
+            "type": "list",
+            "note": "",
+            "subDefine": {
+                "type": "Good"
+            }
+        }
+    }
+}
