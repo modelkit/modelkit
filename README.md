@@ -1,2 +1,9 @@
-# modelkit
-modelkit 
+## 
+###介绍
+ **ModelKit**是一个一键生成iOS和Android项目Model的自动化工具。生成的JSON-schame文件可以作为团队多人敏捷开发的媒介，节约服务器端、iOS端、Android端三方面的接口制定、交流和开发时间。
+###工具特点
+######1.快速生成Objective-C和Java的model对象，后续计划支持生成Swift语言。
+######2.通过HTTP或HTTPS请求下来JSON接口，并转化为JSON-schame文件。
+######3.自定义HTTP头部信息。
+###帮助反馈
+这个软件是业余时间开发的，有很多不足之处和Bug，遇到问题请在[这里反馈](https://github.com/modelkit/modelkit/issues)。
